@@ -45,5 +45,5 @@ lerna-debug.log*
 !.dharitri/config/config.yaml
 
 # Environment
-.env
 .env.custom
+config.bat
